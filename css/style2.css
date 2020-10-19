@@ -1,0 +1,33 @@
+/*Universal Selector*/
+*{
+	cursor:pointer;
+}
+.firstdiv{
+	font-size:50px;
+	cursor:pointer;
+	width:500px;
+	height:200px;
+	background: rgba(21,109,174,0.3);
+	/*opacity: 0.5*/
+	color:black;
+	border: 5px;
+	/*border-style: solid;*/
+	border-style: dotted;
+	/*margin:updown leftright;*/
+	margin:100px auto;
+}
+
+.seconddiv{
+	color:green;
+	width:500px;
+	height:200px;
+	font-size:50px;
+	background-image: url(https://www.freevector.com/uploads/vector/preview/30374/Colorful-Plait-Background.jpg);
+	background-repeat:repeat;
+	/*background-repeat:no-repeat;*/
+	/*background-repeat:repeat-x;*/
+	/*background-repeat:repeat-y;*/
+	background-position: center;
+	margin: 100px auto;
+
+}

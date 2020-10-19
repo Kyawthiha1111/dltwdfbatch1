@@ -1,4 +1,21 @@
-p{
+/* Element Selector */
+/*Single Selector*/
+/*p{
 	color:red;
 	font-size:20px;
+}*/
+
+/*Group Selector*/
+h1,h2,h3,h4{
+	color:blue;
+}
+/*ID Selector*/
+#first{
+	color:red;
+	font-size:30px;
+}
+/*Clss Selector*/
+.second{
+	color:green;
+	font-size :20px;
 }
